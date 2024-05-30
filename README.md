@@ -49,6 +49,9 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+# Screenshot
+![](
+
 # Acknowledgements
 This project was inspired by the classic Snake game.
 The game logic and GUI are implemented using Java Swing.
