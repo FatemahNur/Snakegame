@@ -50,7 +50,7 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Screenshot
-![](
+![](https://github.com/FatemahNur/Snakegame/blob/master/Screenshot%20(9).png)
 
 # Acknowledgements
 This project was inspired by the classic Snake game.
